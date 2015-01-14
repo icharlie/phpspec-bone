@@ -1,0 +1,4 @@
+suites:
+  idx_suite:
+    namespace: [namespace]
+    psr4_prefix: [namespace]
