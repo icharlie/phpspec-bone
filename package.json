@@ -1,0 +1,29 @@
+{
+  "name": "phpspec-bone",
+  "version": "0.0.1",
+  "description": "phpspec starter kit",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "phpspec run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icharlie/phpspec-bone.git"
+  },
+  "keywords": [
+    "php",
+    "test"
+  ],
+  "author": "icharlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icharlie/phpspec-bone/issues"
+  },
+  "homepage": "https://github.com/icharlie/phpspec-bone",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-notify": "^2.2.0",
+    "gulp-phpspec": "^0.3.1",
+    "gulp-run": "^1.6.6"
+  }
+}
